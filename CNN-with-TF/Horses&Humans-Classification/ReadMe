@@ -1,3 +1,4 @@
 This a small convolutional Neural Network which I craeted using tensorflow with keras
 It's a simple one but we can see how it worked very well on classification problem.
 In this CNN you can see the impact of changing the number of filters on the model accuracy and also you can play with number of convolutional layers that you can use to improve your neural network accuracy.
+Hint --> The test and validation datasets will be downloaded in the code cells.
